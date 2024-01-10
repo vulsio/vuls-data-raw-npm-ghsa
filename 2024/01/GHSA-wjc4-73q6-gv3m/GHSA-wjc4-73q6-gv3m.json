@@ -62,7 +62,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-1321"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-03T19:38:54Z",
 		"nvd_published_at": "2024-01-03T05:15:11Z",
