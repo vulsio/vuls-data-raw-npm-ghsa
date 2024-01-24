@@ -32,15 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(minimatch).defaults",
-					"(minimatch).braceExpand",
-					"(minimatch).match",
-					"(minimatch).Minimatch.defaults"
-				]
-			}
+			]
 		}
 	],
 	"references": [

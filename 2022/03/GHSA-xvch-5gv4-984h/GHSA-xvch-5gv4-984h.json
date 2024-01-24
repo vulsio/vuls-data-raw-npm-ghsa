@@ -51,12 +51,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(minimist)"
-				]
-			}
+			]
 		}
 	],
 	"references": [
