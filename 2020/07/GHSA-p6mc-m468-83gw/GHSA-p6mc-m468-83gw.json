@@ -57,7 +57,7 @@
 							"introduced": "3.7.0"
 						},
 						{
-							"fixed": "4.17.20"
+							"fixed": "4.17.19"
 						}
 					]
 				}
@@ -70,6 +70,126 @@
 					"(lodash).update",
 					"(lodash).updateWith",
 					"(lodash).zipObjectDeep"
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.pick"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.pick)"
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.set"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.set)"
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.setwith"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.setwith)"
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.update"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.update)"
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "npm",
+				"name": "lodash.updatewith"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "3.7.0"
+						},
+						{
+							"fixed": "4.17.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(lodash.updatewith)"
 				]
 			}
 		}
