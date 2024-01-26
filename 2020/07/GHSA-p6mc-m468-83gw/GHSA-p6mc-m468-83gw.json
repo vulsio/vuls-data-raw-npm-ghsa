@@ -57,7 +57,7 @@
 							"introduced": "3.7.0"
 						},
 						{
-							"fixed": "4.17.19"
+							"fixed": "4.17.20"
 						}
 					]
 				}
@@ -83,10 +83,10 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "3.7.0"
+							"introduced": "4.0.0"
 						},
 						{
-							"fixed": "4.17.19"
+							"last_affected": "4.4.0"
 						}
 					]
 				}
@@ -110,7 +110,7 @@
 							"introduced": "3.7.0"
 						},
 						{
-							"fixed": "4.17.19"
+							"last_affected": "4.3.2"
 						}
 					]
 				}
@@ -131,10 +131,10 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "3.7.0"
+							"introduced": "0"
 						},
 						{
-							"fixed": "4.17.19"
+							"last_affected": "4.3.2"
 						}
 					]
 				}
@@ -155,10 +155,10 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "3.7.0"
+							"introduced": "0"
 						},
 						{
-							"fixed": "4.17.19"
+							"last_affected": "4.10.2"
 						}
 					]
 				}
@@ -179,10 +179,10 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "3.7.0"
+							"introduced": "0"
 						},
 						{
-							"fixed": "4.17.19"
+							"last_affected": "4.10.2"
 						}
 					]
 				}
