@@ -61,6 +61,14 @@
 			"url": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/"
 		},
 		{
+			"type": "WEB",
+			"url": "https://github.com/FriendsOfPHP/security-advisories/blob/master/typo3/cms-core/CVE-2018-14041.yaml"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/FriendsOfPHP/security-advisories/blob/master/typo3/cms/CVE-2018-14041.yaml"
+		},
+		{
 			"type": "PACKAGE",
 			"url": "https://github.com/twbs/bootstrap"
 		},
@@ -87,6 +95,10 @@
 		{
 			"type": "WEB",
 			"url": "https://seclists.org/bugtraq/2019/May/18"
+		},
+		{
+			"type": "WEB",
+			"url": "https://typo3.org/security/advisory/typo3-core-sa-2019-006"
 		},
 		{
 			"type": "WEB",
