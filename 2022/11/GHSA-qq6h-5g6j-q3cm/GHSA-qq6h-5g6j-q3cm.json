@@ -28,8 +28,8 @@
 	],
 	"references": [
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/sweetalert2/sweetalert2/"
+			"type": "WEB",
+			"url": "https://github.com/sweetalert2/sweetalert2"
 		},
 		{
 			"type": "WEB",
