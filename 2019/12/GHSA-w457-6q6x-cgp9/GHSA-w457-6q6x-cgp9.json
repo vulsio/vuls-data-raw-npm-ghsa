@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(handlebars).compile"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -56,12 +51,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(handlebars).compile"
-				]
-			}
+			]
 		}
 	],
 	"references": [

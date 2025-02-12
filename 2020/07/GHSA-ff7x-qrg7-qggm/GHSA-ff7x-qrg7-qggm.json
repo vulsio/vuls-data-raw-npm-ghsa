@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(dot-prop).set"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -56,12 +51,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(dot-prop).set"
-				]
-			}
+			]
 		}
 	],
 	"references": [
