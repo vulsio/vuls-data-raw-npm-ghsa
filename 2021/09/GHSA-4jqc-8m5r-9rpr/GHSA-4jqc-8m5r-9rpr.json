@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(set-value).validateKey"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -56,12 +51,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(set-value).validateKey"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -80,12 +70,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(set-value).validateKey"
-				]
-			}
+			]
 		}
 	],
 	"references": [

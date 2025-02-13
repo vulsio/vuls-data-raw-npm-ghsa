@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(xmlhttprequest).XMLHttpRequest"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -56,12 +51,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(xmlhttprequest-ssl).XMLHttpRequest"
-				]
-			}
+			]
 		}
 	],
 	"references": [

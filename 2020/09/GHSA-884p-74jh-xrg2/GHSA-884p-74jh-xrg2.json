@@ -26,12 +26,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(tree-kill)"
-				]
-			}
+			]
 		}
 	],
 	"references": [

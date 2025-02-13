@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(mixin-deep)"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -59,12 +54,7 @@
 			],
 			"versions": [
 				"2.0.0"
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(mixin-deep)"
-				]
-			}
+			]
 		}
 	],
 	"references": [

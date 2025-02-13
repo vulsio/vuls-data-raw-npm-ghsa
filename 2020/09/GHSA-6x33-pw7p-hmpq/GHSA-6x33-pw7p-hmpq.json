@@ -29,12 +29,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(http-proxy).createProxyServer"
-				]
-			}
+			]
 		}
 	],
 	"references": [

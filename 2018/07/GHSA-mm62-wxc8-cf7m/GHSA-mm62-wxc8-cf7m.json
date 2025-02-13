@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(serialize-to-js).deserialize"
-				]
-			}
+			]
 		}
 	],
 	"references": [

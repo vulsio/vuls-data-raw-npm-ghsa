@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(merge-deep)"
-				]
-			}
+			]
 		}
 	],
 	"references": [

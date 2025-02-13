@@ -32,15 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(mpath).get",
-					"(mpath).has",
-					"(mpath).unset",
-					"(mpath).set"
-				]
-			}
+			]
 		}
 	],
 	"references": [

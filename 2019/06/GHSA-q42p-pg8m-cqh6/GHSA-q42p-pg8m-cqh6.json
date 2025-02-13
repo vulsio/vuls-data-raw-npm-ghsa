@@ -29,12 +29,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(handlebars).helpers.lookup"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -53,12 +48,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(handlebars).helpers.lookup"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -77,12 +67,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(handlebars).helpers.lookup"
-				]
-			}
+			]
 		}
 	],
 	"references": [
