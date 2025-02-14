@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(exec-local-bin)"
-				]
-			}
+			]
 		}
 	],
 	"references": [
