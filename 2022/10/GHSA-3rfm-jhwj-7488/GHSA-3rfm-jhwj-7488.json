@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(loader-utils).interpolateName"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -56,12 +51,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(loader-utils).interpolateName"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -80,12 +70,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(loader-utils).interpolateName"
-				]
-			}
+			]
 		}
 	],
 	"references": [
