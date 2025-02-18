@@ -33,11 +33,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"fetch()"
-				]
-			},
 			"database_specific": {
 				"last_known_affected_version_range": "<= 6.6.0"
 			}
